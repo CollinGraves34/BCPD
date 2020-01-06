@@ -1,6 +1,6 @@
 # BCPD
 Barren County Phone Directory
 
-        Info
-    -------------
+         Info
+    ----------------
     Unsorted Version
